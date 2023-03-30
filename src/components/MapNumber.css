@@ -1,0 +1,216 @@
+.mapnumber-container {
+    height: 750px;
+    background-color: black;
+    position: relative;
+    display: flex;
+  }
+
+.mapnumber-img {
+    height: 100%;
+    width: 100%;
+}
+
+.mapnumber-container1 {
+    width: 70%;
+    background-color: black;
+}
+
+.mapnumber-container2 {
+    width: 30%;
+    background-color: white;
+}
+
+.icon-spain {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-spain img {
+    position: absolute;
+    top: 325px;
+    left: 655px;
+    width: 50px;
+    height: auto;
+  }
+
+  .icon-france {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-france img {
+    position: absolute;
+    top: 300px;
+    left: 685px;
+    width: 50px;
+    height: auto;
+  }
+
+  .icon-uk {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-uk img {
+    position: absolute;
+    top: 270px;
+    left: 655px;
+    width: 50px;
+    height: auto;
+  }
+
+  .icon-germany {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-germany img {
+    position: absolute;
+    top: 285px;
+    left: 715px;
+    width: 50px;
+    height: auto;
+  }
+
+  .icon-russia {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-russia img {
+    position: absolute;
+    top: 245px;
+    left: 835px;
+    width: 50px;
+    height: auto;
+  }
+
+  .icon-brasil {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-brasil img {
+    position: absolute;
+    top: 535px;
+    left: 485px;
+    width: 50px;
+    height: auto;
+  }
+
+  .icon-china {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-china img {
+    position: absolute;
+    top: 365px;
+    left: 1155px;
+    width: 50px;
+    height: auto;
+  }
+
+  .icon-usa {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-usa img {
+    position: absolute;
+    top: 335px;
+    left: 365px;
+    width: 50px;
+    height: auto;
+  }
+
+  .icon-japan {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-japan img {
+  position: absolute;
+  top: 335px;
+  left: 1220px;
+  width: 50px;
+  height: auto;
+  }
+
+  .icon-italy {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-italy img {
+  position: absolute;
+  top: 325px;
+  left: 727px;
+  width: 50px;
+  height: auto;
+  }
+
+  .icon-india {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-india img {
+  position: absolute;
+  top: 375px;
+  left: 992px;
+  width: 50px;
+  height: auto;
+  }
+
+  .icon-korea {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-korea img {
+  position: absolute;
+  top: 325px;
+  left: 1178px;
+  width: 50px;
+  height: auto;
+  }
+
+  .icon-australia {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+.icon-australia img {
+  position: absolute;
+  top: 565px;
+  left: 1250px;
+  width: 50px;
+  height: auto;
+  }
